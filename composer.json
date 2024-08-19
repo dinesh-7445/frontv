@@ -1,0 +1,17 @@
+{
+    "name": "fronten/module-catalog",
+    "description": "Development version of Magento Theme.",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.1",
+    "authors": [
+        {
+            "name": "niki",
+            "email": "niki@gmail.com"
+        }
+    ],
+    "require": {
+	"php": "^8.1"
+    },
+    "minimum-stability": "stable"
+}
