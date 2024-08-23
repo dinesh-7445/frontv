@@ -11,7 +11,8 @@
         }
     ],
     "require": {
-	"php": "^8.1"
+	"php": "^8.1",
+	"magestyapps/module-web-images": "1.1.7"
     },
     "minimum-stability": "stable"
 }
